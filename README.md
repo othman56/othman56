@@ -1,12 +1,26 @@
-# Hello there; welcome 👋🏾
+# 👋 Hello, I'm Usman Hassan
 
-I'm a Software Engineer . I'm passionate about sharing knowledge, coding, web engineering.
+I’m a dedicated front end developer and current intern at **3Deez Global Investment**.
 
-**Here's a quick summary about me**:
+I focus on building scalable and user-friendly web applications using modern technologies such as **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**. I have a keen interest in writing clean, maintainable code and delivering high-quality digital experiences.
 
-- 😊 Pronouns: He/him
-- 💡 Fun fact: I'm a Computer Science Student of IBBUL Ibrahmin Badamasi Babangida University Lapai Class of 2022.
-- 🌱 I’m currently learning JavaScript,typescript, Reactjs, nextjs and Node.js
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can contact me by emailing hassanusman5667@gmail.com.
+### 💼 Experience
+- **Software Development Intern** at *3Deez Global Investment*  
+  Contributing to real-world projects, collaborating with experienced developers, and gaining practical, hands-on experience in a professional environment.
+
+### 🛠️ Technologies I Work With
+- Frontend: React, Next.js, Tailwind CSS, typescript
+- Backend: Node.js 
+- Tools: Git, GitHub, VS Code, Figma
+
+### 📈 Currently Learning
+- Advanced Next.js patterns  
+- API integration and backend services  
+- UI/UX refinement and accessibility best practices
+
+---
+
+📫 Feel free to connect or collaborate on projects — I’m always eager to grow and contribute.
+
+
+
