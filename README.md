@@ -20,7 +20,8 @@ I focus on building scalable and user-friendly web applications using modern tec
 
 ---
 
-📫 Feel free to connect or collaborate on projects — I’m always eager to grow and contribute.
+📫**Contact me:** hassanusman5667@gmail.com 
+Feel free to connect or collaborate on projects — I’m always eager to grow and contribute.
 
 
 
