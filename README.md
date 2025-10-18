@@ -1,15 +1,15 @@
 # 👋 Hello, I'm Usman Hassan
 
-I’m a dedicated front end developer and current intern at **3Deez Global Investment**.
+I’m a dedicated front end developer and current intern at **3Deez Global Investment Limited**.
 
 I focus on building scalable and user-friendly web applications using modern technologies such as **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**. I have a keen interest in writing clean, maintainable code and delivering high-quality digital experiences.
 
 ### 💼 Experience
-- **Software Development Intern** at *3Deez Global Investment*  
+- **Software Development Intern** at *3Deez Global Investment Limited*  
   Contributing to real-world projects, collaborating with experienced developers, and gaining practical, hands-on experience in a professional environment.
 
 ### 🛠️ Technologies I Work With
-- Frontend: React, Next.js, Tailwind CSS, typescript
+- Frontend: React, Next.js, Tailwind CSS, Typescript
 - Backend: Node.js 
 - Tools: Git, GitHub, VS Code, Figma
 
