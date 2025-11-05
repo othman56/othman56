@@ -5,7 +5,7 @@ I’m a dedicated front end developer and current intern at **3Deez Global Inves
 I focus on building scalable and user-friendly web applications using modern technologies such as **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**. I have a keen interest in writing clean, maintainable code and delivering high-quality digital experiences.
 
 ### 💼 Experience
-- **Software Development Intern** at *3Deez Global Investment Limited*  
+- **Software Developer** at *3Deez Global Investment Limited*  
   Contributing to real-world projects, collaborating with experienced developers, and gaining practical, hands-on experience in a professional environment.
 
 ### 🛠️ Technologies I Work With
